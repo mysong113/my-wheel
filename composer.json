@@ -1,0 +1,13 @@
+{
+    "name": "codesong/tools",
+    "description": "just some code",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "CodeSong\\": [ "."]
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
