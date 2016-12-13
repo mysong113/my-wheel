@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeSong\tools;
+namespace CStools;
 
 class HttpClient
 {
